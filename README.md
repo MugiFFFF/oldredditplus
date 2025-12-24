@@ -1,6 +1,7 @@
 # Old Reddit Plus
 
 OldReddit専用Tampermonkey用ユーザースクリプト
+
 画面上部のサブレディットリンクを左部フロートサイドバーに移行させます
 -------
 A Tampermonkey userscript for Old Reddit that moves the subreddit list to a left sidebar
@@ -11,9 +12,9 @@ A Tampermonkey userscript for Old Reddit that moves the subreddit list to a left
 
 ## Features / 機能
 
-- サブレディット一覧を左サイドバーに移動 / Moves subreddit list to left sidebar
-- Old Redditのインターフェースを維持 / Maintains Old Reddit interface
-- Tampermonkeyで簡単にインストール可能 / Easy installation with Tampermonkey
+- サブレディット一覧を左サイドバーに移動
+- Old Redditのインターフェースを維持
+- Tampermonkeyで簡単にインストール可能
 -------
 - Moves subreddit list to left sidebar
 - Maintains Old Reddit interface
@@ -32,12 +33,12 @@ A Tampermonkey userscript for Old Reddit that moves the subreddit list to a left
 ## Installation / インストール方法
 
 1. [Tampermonkey](https://www.tampermonkey.net/)をブラウザにインストール
-2. [Greasyfork](https://greasyfork.org/ja/scripts/559896-oldredditplus)からインストール、または `src/oldredditplus.js` をTampermonkeyに追加
+2. [Greasyfork](https://greasyfork.org/ja/scripts/559896-oldredditplus)からインストール、または "src/oldredditplus.js" をTampermonkeyに追加
 3. Old Redditにアクセス
 **注意:** www.reddit.comの旧UI設定でも利用可能(テストは主にこちらで行っています)
 -------
 1. Install [Tampermonkey](https://www.tampermonkey.net/) on your browser  
-2. Install this script from [Greasyfork](https://greasyfork.org/ja/scripts/559896-oldredditplus) or add `src/oldredditplus.js` to Tampermonkey  
+2. Install this script from [Greasyfork](https://greasyfork.org/ja/scripts/559896-oldredditplus) or add "src/oldredditplus.js" to Tampermonkey  
 3. Access Old Reddit  
 **Note:** Also works with www.reddit.com's old UI setting (primarily tested on this)  
 

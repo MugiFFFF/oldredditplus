@@ -7,6 +7,8 @@
 // @description:en Old Reddit customization with overlay sidebar on the left of the screen and dark mode
 // @author       Merlinsencho
 // @match        https://www.reddit.com/*
+// @match        https://reddit.com/*
+// @match        https://old.reddit.com/*
 // @grant        GM_addStyle
 // @run-at       document-end
 // @noframes

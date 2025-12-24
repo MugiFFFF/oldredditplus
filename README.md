@@ -19,7 +19,7 @@ A Tampermonkey userscript for Old Reddit that moves the subreddit list to a left
 - Maintains Old Reddit interface
 - Easy installation with Tampermonkey
 
-## 使用権限やAPIなど
+## Permissions and API / 使用権限やAPIなど
 
 - 閲覧しているredditへのCSS注入権限, ブラウザのlocalstorageへの設定内容の保存
 - Reddit-API不使用
@@ -51,13 +51,22 @@ The script automatically activates when you access Old Reddit (old.reddit.com or
 
 - インターネットブラウザ (テストしたのはFirefox, Brave)
 - ユーザースクリプトマネージャー(テストしたのはTampermonkey)
-- Old Reddit UI (old.reddit.com or www.reddit.com with old UI setting)  
-  旧UIのReddit (old.reddit.comまたは旧UI設定のwww.reddit.com)
+- 旧UIのReddit (old.reddit.comまたは旧UI設定のwww.reddit.com)
+-------
+- Web browser (tested on Firefox, Brave)
+- Userscript manager (tested with Tampermonkey)
+- Old Reddit UI (old.reddit.com or www.reddit.com with old UI setting)
 
-## License
+## Contact / 連絡先
 
-MIT
+バグ報告や機能リクエストは [Issues](https://codeberg.org/Merlinsencho/oldredditplus/issues) までお願いします
+-------
+For bug reports and feature requests, please use [Issues](https://codeberg.org/Merlinsencho/oldredditplus/issues)
 
 ## Author
 
 Merlinsencho
+
+## License
+
+MIT

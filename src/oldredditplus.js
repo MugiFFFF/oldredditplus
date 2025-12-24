@@ -1,5 +1,5 @@
 // ==UserScript==
-// @version      1.1.0
+// @version      1.1.1
 // @name         OldRedditPlus
 // @name:en      OldRedditPlus
 // @namespace    https://codeberg.org/Merlinsencho/oldredditplus

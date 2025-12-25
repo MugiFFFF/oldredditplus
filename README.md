@@ -61,8 +61,12 @@ The script automatically activates when you access Old Reddit (old.reddit.com or
 ## Contact / 連絡先
 
 バグ報告や機能リクエストは [Issues](https://codeberg.org/Merlinsencho/oldredditplus/issues) までお願いします
+codebergがメインであり、githubはgreasyfork公開作業上におけるミラーリポジトリです。
+もしgithubを見ている方は驚かないでください、issueのリンク先はcodebergとなります
 -------
-For bug reports and feature requests, please use [Issues](https://codeberg.org/Merlinsencho/oldredditplus/issues)
+For bug reports and feature requests, please use [Issues](https://codeberg.org/Merlinsencho/oldredditplus/issues)  
+Codeberg is the main repository, and GitHub is a mirror repository for Greasyfork publication purposes.  
+If you're viewing this on GitHub, please note that issues are tracked on Codeberg.
 
 ## Author
 

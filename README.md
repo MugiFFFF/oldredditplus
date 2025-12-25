@@ -35,28 +35,28 @@ A Tampermonkey userscript for Old Reddit that moves the subreddit list to a left
 1. [Tampermonkey](https://www.tampermonkey.net/)をブラウザにインストール
 2. [Greasyfork](https://greasyfork.org/ja/scripts/559896-oldredditplus)からインストール、または "src/oldredditplus.js" をTampermonkeyに追加
 3. Old Redditにアクセス
-**注意:** www.reddit.comの旧UI設定でも利用可能(テストは主にこちらで行っています)
+**注意:** www .reddit .com の旧UI設定でも利用可能(テストは主にこちらで行っています)
 -------
 1. Install [Tampermonkey](https://www.tampermonkey.net/) on your browser  
 2. Install this script from [Greasyfork](https://greasyfork.org/ja/scripts/559896-oldredditplus) or add "src/oldredditplus.js" to Tampermonkey  
 3. Access Old Reddit  
-**Note:** Also works with www.reddit.com's old UI setting (primarily tested on this)  
+**Note:** Also works with www .reddit .com old UI setting (primarily tested on this)  
 
 ## Usage / 使い方
 
-インストール後、Old Reddit (old.reddit.comまたはwww.reddit.comの旧UI表示設定) にアクセスすると自動的に有効化されます
+インストール後、Old Reddit (old.reddit.comまたはwww .reddit .comの旧UI表示設定) にアクセスすると自動的に有効化されます
 --------
-The script automatically activates when you access Old Reddit (old.reddit.com or www.reddit.com with old UI setting)  
+The script automatically activates when you access Old Reddit (old.reddit.com or www .reddit .com with old UI setting)  
 
 ## Requirements / 動作環境
 
 - インターネットブラウザ (テストしたのはFirefox, Brave)
 - ユーザースクリプトマネージャー(テストしたのはTampermonkey)
-- 旧UIのReddit (old.reddit.comまたは旧UI設定のwww.reddit.com)
+- 旧UIのReddit (old.reddit.comまたは旧UI設定のwww .reddit .com)
 -------
 - Web browser (tested on Firefox, Brave)
 - Userscript manager (tested with Tampermonkey)
-- Old Reddit UI (old.reddit.com or www.reddit.com with old UI setting)
+- Old Reddit UI (old.reddit.com or www .reddit .com with old UI setting)
 
 ## Contact / 連絡先
 
